@@ -1,0 +1,11 @@
+.rows {
+    height: 10px;
+}
+.rows td {
+    
+    padding: 0;
+}
+.thead{
+    height: 1%;
+}
+
